@@ -1,0 +1,2 @@
+java -cp . Krakatau
+pause
